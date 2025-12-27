@@ -59,6 +59,12 @@ Notepad++ is selected because:
 - Verify file integrity from official source  
 
 ---
+
+⭐ *If you found this project helpful, don’t forget to star the repository!
+### 2️⃣ Add Application in Intune
+**Path:**
+-----
+
 Endpoint Manager Admin Center
 → Apps
 → Windows
@@ -156,9 +162,3 @@ It reflects **real-world enterprise deployment scenarios** and strengthens **end
 
 🔗 **GitHub:** https://github.com/HShamim30/Microsoft-Intune-MSI-Application-Deployment  
 🔗 **LinkedIn:** https://www.linkedin.com/in/huzaifa-shamim-ahmad-59987539a/
-
----
-
-⭐ *If you found this project helpful, don’t forget to star the repository!
-### 2️⃣ Add Application in Intune
-**Path:**
